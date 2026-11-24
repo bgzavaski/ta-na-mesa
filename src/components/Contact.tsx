@@ -59,10 +59,10 @@ export default function Contact() {
       <div className="container contact__content">
         <header className="section-heading">
           <p className="contact__eyebrow">Envie sua dúvida</p>
-          <h2>Entre em contato</h2>
+          <h2>Entre em contato</h2> 
           <p>
             Entre em contato, estamos dispostos a tirar qualquer dúvida,<br className="desktop-only" />
-            seja um orçamento, uma dúvida técnica ou alguma informação sobre nossos produtos.<br className="desktop-only" />
+            seja um orçamento ou alguma informação sobre nossos produtos.<br className="desktop-only" />
             Estamos à disposição para responder 😎
           </p>
         </header>
