@@ -1,0 +1,11 @@
+.site-header { background: var(--white); position: relative; z-index: 20; }
+.nav { align-items: center; display: flex; justify-content: space-between; min-height: 5.5rem; }
+.brand img { height: 4rem; object-fit: contain; width: 11rem; }
+.nav__links { align-items: center; gap: 1.5rem; }
+.nav__actions { align-items: center; gap: 1.5rem; }
+.nav__actions > a:first-child { color: var(--primary); }
+.menu-button { background: transparent; cursor: pointer; height: 2.75rem; padding: .55rem; position: relative; width: 2.75rem; z-index: 2; }
+.menu-button span { background: var(--text); display: block; height: .15rem; margin-block: .3rem; width: 100%; }
+.mobile-menu { align-items: center; background: var(--white); display: flex !important; inset: 0; justify-content: center; position: fixed; }
+.mobile-menu ul { display: grid; gap: 2rem; text-align: center; }
+.mobile-menu a { font-size: 1.4rem; }

@@ -1,0 +1,5 @@
+.button { align-items: center; border: .125rem solid var(--primary); border-radius: .4rem; cursor: pointer; display: inline-flex; justify-content: center; min-height: 3rem; padding: .7rem 1.5rem; transition: background .2s, color .2s; }
+.button--primary { background: var(--primary); color: var(--white); }
+.button--primary:hover { background: var(--primary-dark); border-color: var(--primary-dark); color: var(--white); }
+.button--secondary { background: transparent; color: var(--primary); }
+.button--secondary:hover { background: var(--primary); color: var(--white); }

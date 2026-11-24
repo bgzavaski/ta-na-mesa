@@ -1,0 +1,38 @@
+[
+  {
+    "id": "basic",
+    "name": "Básico",
+    "description": "Uma prova das nossas refeições caseiras.",
+    "price": "Grátis",
+    "features": [
+      "Retire na loja",
+      "Apenas 1 por CPF"
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "description": "Para quem quer uma refeição saborosa todos os dias.",
+    "price": "R$ 89,90",
+    "period": "/mês",
+    "features": [
+      "2 entregas",
+      "5 refeições por semana",
+      "2 sucos por semana"
+    ],
+    "premium": true,
+    "badge": "1º MÊS COM DESCONTO"
+  },
+  {
+    "id": "family",
+    "name": "Família",
+    "description": "Mais refeições para dividir bons momentos.",
+    "price": "R$ 149,90",
+    "period": "/mês",
+    "features": [
+      "3 entregas",
+      "10 refeições por semana",
+      "Frete incluso"
+    ]
+  }
+]

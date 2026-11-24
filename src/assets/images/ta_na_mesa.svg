@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="Tá na Mesa - logo horizontal">
+<g fill="none" stroke="#32B51F" stroke-width="12" stroke-linejoin="round" stroke-linecap="round">
+<path d="M35 185 H375 L332 235 H78 Z"/>
+<path d="M75 185 H220 Q245 163 245 145 H65 Q65 165 85 185"/>
+<path d="M76 145 Q60 128 85 116 Q79 91 102 91 Q123 89 138 108 Q160 103 176 123 Q198 115 211 145"/>
+<path d="M187 143 Q186 104 206 104 Q224 104 226 143"/>
+<path d="M253 185 V96 L297 50 L346 99 V185 M253 96 L301 109 L346 99 M301 109 V185 M297 50 L320 83 L346 99 M275 73 L301 109"/>
+</g>
+<g fill="#303030" font-family="Arial Rounded MT Bold, Nunito, Arial, sans-serif" font-weight="700">
+<text x="410" y="212" font-size="146" letter-spacing="-7">Tá</text>
+<text x="645" y="209" font-size="116" letter-spacing="-5">na Mesa</text>
+</g>
+</svg>
