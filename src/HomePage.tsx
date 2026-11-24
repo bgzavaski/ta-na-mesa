@@ -5,6 +5,7 @@ import Solutions from './components/Solutions';
 import Testimonials from './components/Testimonials';
 import Pricing from './components/Pricing';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 import './styles/buttons.css';
 import './styles/header.css';
 import './styles/hero.css';
@@ -12,6 +13,7 @@ import './styles/solutions.css';
 import './styles/testimonials.css';
 import './styles/pricing.css';
 import './styles/contact.css';
+import './styles/footer.css';
 
 // A HomePage organiza as seções. Cada seção cuida do seu próprio conteúdo.
 export default function HomePage() {
@@ -25,6 +27,7 @@ export default function HomePage() {
         <Pricing />
         <Contact />
       </main>
+      <Footer />
     </>
   );
 }
